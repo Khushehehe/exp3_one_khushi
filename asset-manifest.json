@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exp3_one_khushi/static/css/main.cdc8fb04.css",
+    "main.js": "/exp3_one_khushi/static/js/main.08c42d87.js",
+    "static/js/453.2167bc03.chunk.js": "/exp3_one_khushi/static/js/453.2167bc03.chunk.js",
+    "index.html": "/exp3_one_khushi/index.html",
+    "main.cdc8fb04.css.map": "/exp3_one_khushi/static/css/main.cdc8fb04.css.map",
+    "main.08c42d87.js.map": "/exp3_one_khushi/static/js/main.08c42d87.js.map",
+    "453.2167bc03.chunk.js.map": "/exp3_one_khushi/static/js/453.2167bc03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc8fb04.css",
+    "static/js/main.08c42d87.js"
+  ]
+}
