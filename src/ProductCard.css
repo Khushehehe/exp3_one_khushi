@@ -1,0 +1,30 @@
+.product-card {
+  width: 220px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.image-placeholder {
+  height: 120px;
+  background: #eaeaea;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.in-stock {
+  color: green;
+  font-weight: bold;
+}
+
+.out-stock {
+  color: red;
+  font-weight: bold;
+}
